@@ -14,4 +14,20 @@ CHIP Not16 {
 
     PARTS:
     // Put your code here:
+    not(in=a[0],out=b[0]);
+    not(in=a[1],out=b[1]);
+    not(in=a[2],out=b[2]);
+    not(in=a[3],out=b[3]);
+    not(in=a[4],out=b[4]);
+    not(in=a[5],out=b[5]);
+    not(in=a[6],out=b[6]);
+    not(in=a[7],out=b[7]);
+    not(in=a[8],out=b[8]);
+    not(in=a[9],out=b[9]);
+    not(in=a[10],out=b[10]);
+    not(in=a[11],out=b[11]);
+    not(in=a[12],out=b[12]);
+    not(in=a[13],out=b[13]);
+    not(in=a[14],out=b[14]);
+    not(in=a[15],out=b[15]);
 }
